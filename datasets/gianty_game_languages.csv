@@ -1,0 +1,9 @@
+Programming Language,Compatible Game Engines
+C++,"Unreal, CryEngine, Source, Godot, Cocos Creator"
+C#,"Unity, Godot, Stride, MonoGame"
+Python,"Pygame, Godot, Panda3D"
+Java,"LibGDX, jMonkeyEngine, Cocos2d, Unity, PlayN"
+JavaScript,"PixiJS, Phaser, Babylon.js, PlayCanvas, Three.js, Cocos Creator"
+GML,GameMaker
+Rust,"Bevy, Fryfox, Amethyst"
+Lua,"LÖVE, Open 3D, Defold, Corona SDK, Solar2D, Roblox"
